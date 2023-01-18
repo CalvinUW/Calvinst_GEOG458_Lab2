@@ -21,7 +21,15 @@ My searches were all done on Monday, January 16th at approximately 8 AM. These s
 
 Looking at each of the word clouds, one major similarity I think we see between all the different locations is the high frequency of words associated with Seattle sports teams, the sports teams of other cities, and sports in general. Another similarity between the word clouds is that each word cloud contains terms related to weather, most frequently rain, winds, clouds, and weather.
 
-A difference
+Despite the similar topics, the actual words in each word cloud are different which suggests the different context from which each set of words was taken. Amongst even the similar words or topics, even shared words are ranked differently, which is best shown by the words Seahawks, which appears in each word cloud, but is different sizes in each. Additionally, there are a number of words that are unique to each context.
+
+**Difference from my expectations**
+
+go to file > raw > copy address
+ALternative:
+Use relative path to the file
+
+The results from the search were significantly different from what I thought I would get. While creating my search term, I thought that I would likely see many other negative words in the searches found in other cities. I additionally hadn't thought of how prevalent the sports talk would be. Given these ideas I was surprised to find out that a good amount of the results were focused on sports.
 
 ![](/img/Boise_word_art.png)
 ![](/img/Seattle_Word_Art.png)
