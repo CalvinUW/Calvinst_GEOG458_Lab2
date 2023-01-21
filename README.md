@@ -55,15 +55,6 @@ A last difference from expectations is that the word clouds produced from the tw
 
 Besides differences in expectations, I think that the clearest thing that stands out to me from my analysis is that good word cloud analysis is difficult and the words returned by a tweet search may not necessarily align with expectations. Where I had assumed that my tweet search would enable a clear analysis of opinions of Seattle, I instead found that word clouds can be jumbled messes and the tweets that I gathered talked about my topic of interest much less than those topics I hadn’t anticipated.
 
-
-
-
-go to file > raw > copy address
-ALternative:
-Use relative path to the file
-
-The results from the search were significantly different from what I thought I would get. While creating my search term, I thought that I would likely see many other negative words in the searches found in other cities. I additionally hadn't thought of how prevalent the sports talk would be. Given these ideas I was surprised to find out that a good amount of the results were focused on sports.
-
 ### Word Clouds:
 #### Boise:
 ![](./img/Boise_word_art.png)
