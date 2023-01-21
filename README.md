@@ -56,18 +56,19 @@ A last difference from expectations is that the word clouds produced from the tw
 Besides differences in expectations, I think that the clearest thing that stands out to me from my analysis is that good word cloud analysis is difficult and the words returned by a tweet search may not necessarily align with expectations. Where I had assumed that my tweet search would enable a clear analysis of opinions of Seattle, I instead found that word clouds can be jumbled messes and the tweets that I gathered talked about my topic of interest much less than those topics I hadn’t anticipated.
 
 ### Word Clouds:
-#### Boise:
-![](./img/Boise_word_art.png)
-[Boise Tweet Search Data](./assets/twsearch-result-Boise.csv)
-<br>
+
 #### Seattle:
-![](./img/Seattle_Word_Art.png)
-[Seattle Tweet Search Data](./assets/twsearch-result-Seattle.csv)
+![](./img/wordcloud-1.png)
+[Seattle Tweet Search Data](./assets/twsearch-result-1.csv)
 <br>
 #### Spokane:
-![](./img/Spokane_Word_Art.png)
-[Spokane Tweet Search Data](./assets/twsearch-result-Spokane.csv)
+![](./img/wordcloud-2.png)
+[Spokane Tweet Search Data](./assets/twsearch-result-2.csv)
 <br>
 #### Portland:
-![](./img/Portland_Word_art.png)
-[Portland Tweet Search Data](./assets/twsearch-result-Portland.csv)
+![](./img/wordcloud-3.png)
+[Portland Tweet Search Data](./assets/twsearch-result-3.csv)
+<br>
+#### Boise:
+![](./img/wordcloud-4.png)
+[Boise Tweet Search Data](./assets/twsearch-result-4.csv)
