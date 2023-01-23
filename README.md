@@ -15,22 +15,22 @@ I wanted to conduct my comparative analysis on how the city of Seattle is spoken
 
 #### Seattle:
 ![](./img/wordcloud-1.png)
-[Seattle Tweet Search Data](./assets/twsearch-result-1.csv)
+[Seattle Tweet Search Data Download](./assets/twsearch-result-1.csv)  
 Location Parameters: location = "47.606852914343,-122.3339681557602,8.91mi"
 <br>
 #### Spokane:
 ![](./img/wordcloud-2.png)
-[Spokane Tweet Search Data](./assets/twsearch-result-2.csv)
+[Spokane Tweet Search Data Download](./assets/twsearch-result-2.csv)  
 Location Parameters: location = "47.674899083386244,-117.41071345907147,5.4mi"
 <br>
 #### Portland:
 ![](./img/wordcloud-3.png)
-[Portland Tweet Search Data](./assets/twsearch-result-3.csv)
+[Portland Tweet Search Data Download](./assets/twsearch-result-3.csv)  
 Location Parameters: location = "45.52224992669451,-122.6544181813578,10.37mi"
 <br>
 #### Boise:
 ![](./img/wordcloud-4.png)
-[Boise Tweet Search Data](./assets/twsearch-result-4.csv)
+[Boise Tweet Search Data Download](./assets/twsearch-result-4.csv)  
 Location Parameters: location = "43.61073619231343,-116.21328028007993,8.6mi"
 
 ### Comparison:
